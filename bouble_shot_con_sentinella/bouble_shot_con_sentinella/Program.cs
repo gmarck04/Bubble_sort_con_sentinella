@@ -2,6 +2,31 @@
  * Autore: Giovanni Marchetto
  * Data 09/03/2021
  * Consegna:
+ 
+Facili: Insertion, selection
+
+Medi: bubble
+
+Difficili: merge + quick.
+
+
+Il primo algoritmo è relativo a "quello che ho già fatto". Il secondo è quello da fare e da confrontare con ciò che è già stato fatto.
+
+
+Selection sort --> Merge sort
+
+Insertion sort --> Quick sort
+
+Bubble sort --> Merge sort
+
+Bubble sort con sentinella--> Quick sort
+
+Quick sort --> Bubble sort con sentinella
+
+Merge sort --> Bubble sort con sentinella
+
+Quick+Merge --> Bubble sort con sentinella
+
 */
 using System;
 
